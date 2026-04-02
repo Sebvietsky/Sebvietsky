@@ -1,63 +1,84 @@
-# 👋 Salut, moi c’est Sébastien
+<h1 align="center">👋 Salut, moi c’est Sébastien</h1>
 
-💻 Développeur web en formation (Concepteur d’application web & mobile)  
-🎯 Objectif : devenir développeur backend / full-stack  
+<p align="center">
+Développeur web en reconversion • Futur backend / full-stack
+</p>
+
+<p align="center">
+<a href="mailto:TON_MAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
+<a href="TON_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 🚀 À propos de moi
 
-Après une reconversion, je me spécialise dans le développement web avec un fort intérêt pour :
+Après une reconversion professionnelle, je me spécialise dans le développement web avec une forte appétence pour le **backend**.
 
-- ⚙️ Le backend (Node.js, API REST)
-- 🗄️ Les bases de données (PostgreSQL, Sequelize, Prisma)
-- 🔐 La sécurité et la gestion des accès
-
-J’aime comprendre en profondeur comment les systèmes fonctionnent et résoudre des problèmes concrets.
-
----
-
-## 🛠️ Stack actuelle
-
-- **Frontend** : React, Svelte
-- **Backend** : Node.js / Express
-- **Database** : PostgreSQL
-- **ORM** : Sequelize, Prisma
-- **Tools** : Docker, Git, VSCode
+💡 Ce qui m’anime :
+- Concevoir des APIs robustes
+- Structurer des bases de données
+- Comprendre en profondeur les systèmes
+- Résoudre des problèmes concrets
 
 ---
 
-## 📌 Projets
+## 🛠️ Stack technique
 
-### 🔹 Okanban (projet principal)
-Application de gestion de tâches type Kanban
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
-- Authentification + rôles utilisateurs
-- API REST sécurisée
-- Base de données PostgreSQL
-- Architecture full-stack
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-👉 [Voir le projet](https://github.com/Sebvietsky/kanban)
+### 🗄️ Base de données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
----
-
-## 📈 Ce que je recherche
-
-🎯 Stage à partir du 22 juin 2026  
-🎯 Alternance backend / full-stack  
-
-- Annecy ou remote
-- Stack JS / ou Java (Spring)
+### 🔧 Outils & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## 📫 Me contacter
+## 📌 Projets principaux
 
-- LinkedIn : www.linkedin.com/in/sebastienfabie
-- Email : sebastienfabie@gmail.com
+### 🔹 Okanban — Application full-stack
 
-## Autres 
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![React](https://img.shields.io/badge/React-blue)
+Application de gestion de tâches type Kanban.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebvietsky)
+🧠 Ce que j’ai travaillé :
+- Authentification sécurisée (JWT)
+- Gestion des rôles (RBAC)
+- API REST structurée
+- Base PostgreSQL
+
+👉 [Voir le projet](LIEN_REPO_OKANBAN)
+
+---
+
+## 📈 En ce moment
+
+- 🔧 Amélioration de mon backend (auth, sécurité, architecture)
+- 📚 Approfondissement des bases de données
+- 🚀 Création de projets orientés production
+
+---
+
+## 🎯 Objectifs
+
+- Stage à partir du 22 juin 2026
+- Alternance backend / full-stack
+- Monter en compétence sur des architectures solides
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true" />
+</p>
