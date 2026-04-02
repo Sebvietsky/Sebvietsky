@@ -80,7 +80,7 @@ Ce que j’ai travaillé :
 
 👉 [Voir le projet](https://github.com/Sebvietsky/kanban)
 <p align="center">
-  <img src="https://github.com/Sebvietsky/kanban/blob/main/assets/crud-okanban.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/Sebvietsky/kanban/main/assets/crud-okanban.gif" width="600"/>
 </p>
 
 ---
