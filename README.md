@@ -104,8 +104,8 @@ Ce que j’ai travaillé :
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebvietsky&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sebvietsky&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebvietsky&theme=radical" height="192"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebvietsky&theme=tokyonight&hide_border=true" height="160"/>
