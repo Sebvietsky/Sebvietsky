@@ -82,7 +82,7 @@ Ce que j’ai travaillé :
 <p align="center">
   <img src="https://github.com/Sebvietsky/kanban/blob/main/assets/crud-okanban.gif" width="600"/>
 </p>
----
+
 
 ## 🎯 Objectifs
 
