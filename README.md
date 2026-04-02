@@ -32,12 +32,14 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748)
-
 ![JWT](https://img.shields.io/badge/JWT-black)
+
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-green)
+![REST API](https://img.shields.io/badge/REST-API-ff6f00?logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/Architecture-REST_API-blue)
 
 
 ### 🎨 Frontend
@@ -47,6 +49,7 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
@@ -98,6 +101,7 @@ Application de gestion de tâches type Kanban.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sebvietsky&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=accolette&theme=radical" height="192"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebvietsky" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=default&cache_seconds=1800" />
 </p>
