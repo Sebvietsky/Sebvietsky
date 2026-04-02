@@ -53,10 +53,11 @@ Application de gestion de tâches type Kanban
 
 ## 📫 Me contacter
 
-- LinkedIn : (www.linkedin.com/in/sebastienfabie)
-- Email : (sebastienfabie@gmail.com)
+- LinkedIn : www.linkedin.com/in/sebastienfabie
+- Email : sebastienfabie@gmail.com
 
 ## Autres 
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![React](https://img.shields.io/badge/React-blue)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebvietsky)
