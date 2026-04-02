@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Salut, moi c’est Sébastien
 
 💻 Développeur web en formation (Concepteur d’application web & mobile)  
