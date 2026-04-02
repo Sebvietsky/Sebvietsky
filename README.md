@@ -2,6 +2,8 @@
 
 <p align="center">
 Développeur web en reconversion • Futur backend / full-stack
+💻 Backend-focused developer (Node.js / API / PostgreSQL)
+🔐 Intérêt particulier pour la sécurité et les architectures robustes
 </p>
 
 <p align="center">
@@ -35,8 +37,7 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748)
 ![JWT](https://img.shields.io/badge/JWT-black)
-
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RBAC](https://img.shields.io/badge/Security-RBAC-red)
 ![REST API](https://img.shields.io/badge/Architecture-REST_API-blue)
 
 
@@ -47,9 +48,7 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### 🗄️ Base de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
@@ -69,14 +68,16 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 
 Application de gestion de tâches type Kanban.
 
-🧠 Ce que j’ai travaillé :
-- Authentification sécurisée (JWT)
-- Gestion des rôles (RBAC)
-- API REST structurée
-- Base PostgreSQL
+Ce que j’ai travaillé :
+- 🔐 Authentification JWT + rôles
+- ⚙️ API REST structurée
+- 🗄️ PostgreSQL + Sequelize
+- 🐳 Dockerisé
 
 👉 [Voir le projet](https://github.com/Sebvietsky/kanban)
-
+<p align="center">
+  <img src="https://github.com/Sebvietsky/kanban/blob/main/assets/crud-okanban.gif" width="600"/>
+</p>
 ---
 
 ## 🎯 Objectifs
