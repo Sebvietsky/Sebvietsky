@@ -37,8 +37,6 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 ![JWT](https://img.shields.io/badge/JWT-black)
 
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/API-REST-green)
-![REST API](https://img.shields.io/badge/REST-API-ff6f00?logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/Architecture-REST_API-blue)
 
 
@@ -101,7 +99,10 @@ Application de gestion de tâches type Kanban.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebvietsky" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=default&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebvietsky&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebvietsky&theme=tokyonight" height="160"/>
 </p>
