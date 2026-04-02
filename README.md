@@ -59,7 +59,6 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
-![MVC](https://img.shields.io/badge/Architecture-MVC-green?style=for-the-badge)
 
 
 ---
@@ -99,10 +98,14 @@ Application de gestion de tâches type Kanban.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebvietsky&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebvietsky&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebvietsky&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebvietsky&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebvietsky&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sebvietsky&color=blue" />
 </p>
