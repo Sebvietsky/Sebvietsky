@@ -2,7 +2,9 @@
 
 <p align="center">
 Développeur web en reconversion • Futur backend / full-stack
+  
 💻 Backend-focused developer (Node.js / API / PostgreSQL)
+
 🔐 Intérêt particulier pour la sécurité et les architectures robustes
 </p>
 
