@@ -90,7 +90,8 @@ Application de gestion de site de quiz, avec gestion de l'authentification et de
 - Gestion des logs
 - Prisma + PSQL
 - Dockerisé
-👉 [Voir le projet]((https://github.com/Sebvietsky/quiz-api))
+  
+👉 [Voir le projet](https://github.com/Sebvietsky/quiz-api)
 
 ---
 
