@@ -48,7 +48,6 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -83,6 +82,16 @@ Ce que j’ai travaillé :
   <img src="https://raw.githubusercontent.com/Sebvietsky/kanban/main/assets/demonstration-okanban.gif" width="600"/>
 </p>
 
+### O-quiz - API REST
+
+Application de gestion de site de quiz, avec gestion de l'authentification et des rôles plus complète et robuste que sur Okanban.
+
+- Authentification JWT + rôle + refresh token en BDD
+- Gestion des logs
+- Prisma + PSQL
+- Dockerisé
+👉 [Voir le projet]((https://github.com/Sebvietsky/quiz-api))
+
 ---
 
 ## 🎯 Objectifs
@@ -96,8 +105,7 @@ Ce que j’ai travaillé :
 ## 📚 En apprentissage
 
 - Architecture backend avancée
-- Sécurité (auth, rate limiting)
-- Spring Boot (objectif alternance)
+- Application mobile en NestJS et React (kilterboard like)
 
 ---
 
