@@ -23,6 +23,7 @@ Développeur web en reconversion • Futur backend / full-stack
 
 ## 🚀 À propos de moi
 
+🌐 **Site en ligne :** [sebvietsky.github.io](https://sebvietsky.github.io)
 Après une reconversion professionnelle, je me spécialise dans le développement web avec une forte appétence pour le **backend**.
 
 💡 Ce qui m’anime :
