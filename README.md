@@ -23,7 +23,7 @@ Développeur web full-stack (orienté back-end)
 
 ## 🚀 À propos de moi
 
-🌐 **Site en ligne :** [sebvietsky.github.io](https://sebastienfabie.fr)
+🌐 **Site en ligne :** [sebastienfabie.fr](https://sebastienfabie.fr)
 
 Après une reconversion professionnelle, je me spécialise dans le développement web et d'application avec une forte appétence pour le **backend**.
 
