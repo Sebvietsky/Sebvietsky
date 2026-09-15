@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c’est Sébastien</h1>
 
 <p align="center">
-Développeur web en reconversion • Futur backend / full-stack
+Développeur web full-stack (orienté back-end)
 </p>
 <p align="center">
 💻 Backend-focused developer (Node.js / API / PostgreSQL)
@@ -23,15 +23,22 @@ Développeur web en reconversion • Futur backend / full-stack
 
 ## 🚀 À propos de moi
 
-🌐 **Site en ligne :** [sebvietsky.github.io](https://sebvietsky.github.io)
+🌐 **Site en ligne :** [sebvietsky.github.io](https://sebastienfabie.fr)
 
-Après une reconversion professionnelle, je me spécialise dans le développement web avec une forte appétence pour le **backend**.
+Après une reconversion professionnelle, je me spécialise dans le développement web et d'application avec une forte appétence pour le **backend**.
 
 💡 Ce qui m’anime :
 - Concevoir des APIs robustes
 - Structurer des bases de données
-- Comprendre en profondeur les systèmes
+- Comprendre les systèmes en profondeur
 - Résoudre des problèmes concrets
+
+---
+
+## 📚 Disponible pour
+
+- Freelance et portage salariale
+- CDD / CDI
 
 ---
 
@@ -63,52 +70,6 @@ Après une reconversion professionnelle, je me spécialise dans le développemen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
-
-
----
-
-## 📌 Projets principaux
-
-### 🔹 Okanban — Application full-stack
-
-Application de gestion de tâches type Kanban.
-
-Ce que j’ai travaillé :
-- 🔐 Authentification JWT + rôles
-- ⚙️ API REST structurée
-- 🗄️ PostgreSQL + Sequelize
-- 🐳 Dockerisé
-
-👉 [Voir le projet](https://github.com/Sebvietsky/kanban)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sebvietsky/kanban/main/assets/demonstration-okanban.gif" width="600"/>
-</p>
-
-### O-quiz - API REST
-
-Application de gestion de site de quiz, avec gestion de l'authentification et des rôles plus complète et robuste que sur Okanban.
-
-- Authentification JWT + rôle + refresh token en BDD
-- Gestion des logs
-- Prisma + PSQL
-- Dockerisé
-  
-👉 [Voir le projet](https://github.com/Sebvietsky/quiz-api)
-
----
-
-## 🎯 Objectifs
-
-- Stage à partir du 22 juin 2026
-- Alternance backend / full-stack
-- Monter en compétence sur des architectures solides
-
----
-
-## 📚 En apprentissage
-
-- Architecture backend avancée
-- Application mobile en NestJS et React (kilterboard like)
 
 ---
 
